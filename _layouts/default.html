@@ -5,15 +5,13 @@
 
   <body>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+    <div class="container-fluid">
+      <div class="col-md-10 col-md-offset-1">
         {{ content }}
       </div>
     </div>
 
-    {% include footer.html %}
+    {% include footer-scripts.html %}
 
   </body>
 
