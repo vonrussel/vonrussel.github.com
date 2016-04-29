@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "Von Russel <v0nrussel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
