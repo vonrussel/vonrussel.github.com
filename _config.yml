@@ -19,6 +19,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed
 exclude: [
   bower.json
 ]
